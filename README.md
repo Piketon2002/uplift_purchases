@@ -1,4 +1,4 @@
-<style> body {text-align: justify}</style>
+<link rel = "stylesheet" type="text/css" href="style.css">
 
 # Предпосылки
 
